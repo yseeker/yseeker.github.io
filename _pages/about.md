@@ -18,30 +18,29 @@ Education
   Thesis: Study on Electric-Field-Induced Superconductivity<br>
   Advisor: Prof. Yoshihiro Iwasa
   <br>
-* **Master of Engineering**, March 2015
+* **Master of Engineering**, March 2015<br>
   The University of Tokyo, Japan
   <br>
-* **Bachelor of Engineering**, March 2013
+* **Bachelor of Engineering**, March 2013<br>
   The University of Tokyo, Japan
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Elings Prize Fellow at University of California, Santa Barbara (CA, USA)<br>
+  October 2018 – present<br>
+  Experimental research on quantum phenomena in twisted bilayer graphene and flat band physics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Postdoctoral Researcher at RIKEN (Tokyo, Japan)<br>
+  April 2018 – September 2018<br>
+  Materials Informatics in 2D materials and van der Waals heterostructure
+
+Selected Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-* 
+* 37th Inoue Research Award for Young Scientists （第37回 井上研究奨励賞） from Inoue Foundation for Science, Feburuary 2021
+* 13th Young Scientist Award of the Physical Society of Japan （第13回 日本物理学会若手奨励賞（領域６）） from the Physical Society of Japan, March 2019
+* Elings Prize Fellowship in Science 2018
+from California NanoSystems Institute, University of California, Santa Barbara, March 2018
+* 8th JSPS Ikushi Prize  (第８回 日本学術振興会育志賞)  from Japan Society for the Promotion of Science (JSPS), March 2018
+* Dean’s Award (工学系研究科長賞) from Graduate School of Engineering, The University of Tokyo, March 2018
+
+
