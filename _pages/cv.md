@@ -60,10 +60,10 @@ Service and leadership
 
 
 
-21. Isospin Pomeranchuk effect in twisted bilayer graphene<br>
+1. Isospin Pomeranchuk effect in twisted bilayer graphene<br>
     Y. Saito*, F. Wang*, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young
     Nature 592, 220-224 (2020).
-20. Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene
+1. Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene
 Y. Saito, J. Ge, L. Rademaker, K. Watanabe, T. Taniguchi, D. A. Abanin, A. F. Young
 Nature Physics 17, 478-481 (2020).
 Independent superconductors and correlated insulators in twisted bilayer graphene
