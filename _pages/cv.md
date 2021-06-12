@@ -61,15 +61,18 @@ Service and leadership
 
 
 1. Isospin Pomeranchuk effect in twisted bilayer graphene<br>
-    Y. Saito*, F. Wang*, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
+    Y. Saito, F. Wang, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
     Nature 592, 220-224 (2020).
+
 1. Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene<br>
 Y. Saito, J. Ge, L. Rademaker, K. Watanabe, T. Taniguchi, D. A. Abanin, A. F. Young<br>
 Nature Physics 17, 478-481 (2020).
-Independent superconductors and correlated insulators in twisted bilayer graphene
+
+1. Independent superconductors and correlated insulators in twisted bilayer graphene
 Y. Saito, J. Ge, K. Watanabe, T. Taniguchi, A. F. Young
 Nature Physics 16, 926-930 (2020). 
-Dynamical vortex phase diagram of two-dimensional superconductivity in gated MoS2
+
+1. Dynamical vortex phase diagram of two-dimensional superconductivity in gated MoS2
 Y. Saito, Y. M. Itahashi, T. Nojima and Y. Iwasa, 
 Physical Review Materials 4, 074003 (2020).
 Quantum and classical ratchet motions of vortices in a 2D trigonal superconductor
