@@ -54,24 +54,21 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Publications
 ======
-* Currently signed in to 43 different slack teams
-
-
-
 1. Isospin Pomeranchuk effect in twisted bilayer graphene<br>
-    Y. Saito, F. Wang, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
-    Nature 592, 220-224 (2020).
-1. Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene<br>
+    Y. Saito<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
+    [*Nature* **592**, 220-224 (2020).](aaa)
+2. Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene<br>
 Y. Saito, J. Ge, L. Rademaker, K. Watanabe, T. Taniguchi, D. A. Abanin, A. F. Young<br>
 Nature Physics 17, 478-481 (2020).
-1. Independent superconductors and correlated insulators in twisted bilayer graphene
+1. Independent superconductors and correlated insulators in twisted bilayer graphene<br>
 Y. Saito, J. Ge, K. Watanabe, T. Taniguchi, A. F. Young
 Nature Physics 16, 926-930 (2020). 
-1. Dynamical vortex phase diagram of two-dimensional superconductivity in gated MoS2
+1. Dynamical vortex phase diagram of two-dimensional superconductivity in gated MoS<sub>2</sub>
 Y. Saito, Y. M. Itahashi, T. Nojima and Y. Iwasa, 
 Physical Review Materials 4, 074003 (2020).
+
 Quantum and classical ratchet motions of vortices in a 2D trigonal superconductor
 Y. M. Itahashi*, Y. Saito*, T. Nojima, T. Ideue and Y. Iwasa
 Physical Review Research 2, 023127 (2020)
