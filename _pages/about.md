@@ -14,9 +14,9 @@ I'am a experimental condensed matter physicist at the University of California, 
 
 Education
 ======
-* **Doctor of Philosophy (Ph.D.) in Applied Physics**, March 2018
-  The University of Tokyo, Japan
-  Thesis: Study on Electric-Field-Induced Superconductivity
+* **Doctor of Philosophy (Ph.D.) in Applied Physics**, March 2018<br>
+  The University of Tokyo, Japan<br>
+  Thesis: Study on Electric-Field-Induced Superconductivity<br>
   Advisor: Prof. Yoshihiro Iwasa
   <br>
 * **Master of Engineering**, March 2015
