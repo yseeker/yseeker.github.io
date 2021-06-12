@@ -56,7 +56,7 @@ Teaching
   
 Publications
 ======
-1. Isospin Pomeranchuk effect in twisted bilayer graphene<br>
+1. **Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
     Y. Saito<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
     [*Nature* **592**, 220-224 (2020).](aaa)
 2. Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene<br>
