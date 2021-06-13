@@ -25,7 +25,7 @@ author_profile: true
 1. **Quantum and classical ratchet motions of vortices in a 2D trigonal superconductor<br>**
 Y. M. Itahashi<sup>+</sup>, **Y. Saito**<sup>+</sup>, T. Nojima, T. Ideue and Y. Iwasa<br>
 [*Physical Review Research* **2**, 023127 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023127)
-1. **Nonreciprocal transport in gate-induced polar superconductor<br> SrTiO<sub>3</sub>**
+1. **Nonreciprocal transport in gate-induced polar superconductor SrTiO<sub>3</sub>**<br>
 Y. M. Itahashi, T. Ideue, **Y. Saito**, S. Shimizu, T. Ouchi, T. Nojima and Y. Iwasa<br>
 [*Science Advances* **6**, eaay9120 (2020).](https://advances.sciencemag.org/content/6/13/eaay9120)
 1. **Deep learning-based quality filtering of mechanically exfoliated 2D crystals<br>**
