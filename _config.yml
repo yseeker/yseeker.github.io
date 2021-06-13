@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yu Saito"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yu Saito"
 description              : &description "personal description"
 url                      : https://yseeker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Yu Saito"
   avatar           : "profile.png"
   bio              : "Elings Prize Fellow @ UC Santa Barbara | PhD in Applied Physics @ the University of Tokyo | Experimental research on quantum materials | Kaggle Competition Expert"
-  location         : 
+  location         : "Santa Barbara, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=M3gyCrUAAAAJ"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  kaggle           : ys
 
 
 # Reading Files
