@@ -1,15 +1,13 @@
 ---
 permalink: /
 layout: archive
-title:
+title: "About"
 excerpt:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About
 
 I am a experimental condensed matter physicist at the University of California, Santa Barbara. He received his B.Eng., M.Eng. and Ph.D. in Applied Physics from the University of Tokyo under the supervision of Prof. Yoshihiro Iwasa. After a short-period postdoc at RIKEN, he joined Andrea Young’s group at the University of California, Santa Barbara in October 2018 as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/resources/funding/elings-prize/fellows). His current research focuses on quantum phenomena in 2D materials and van der Waals moire heterostructures.
 
@@ -28,11 +26,11 @@ I am a experimental condensed matter physicist at the University of California, 
 
 ## Work experience
 
-* Elings Prize Fellow at University of California, Santa Barbara (CA, USA)<br>
+* **Elings Prize Fellow at University of California**, Santa Barbara (CA, USA)<br>
   October 2018 – present<br>
   Experimental research on quantum phenomena in twisted bilayer graphene and flat band physics
 
-* Postdoctoral Researcher at RIKEN (Tokyo, Japan)<br>
+* **Postdoctoral Researcher at RIKEN** (Tokyo, Japan)<br>
   April 2018 – September 2018<br>
   Materials Informatics in 2D materials and van der Waals heterostructure
 
