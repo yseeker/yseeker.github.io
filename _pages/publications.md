@@ -1,10 +1,15 @@
 ---
 layout: archive
-title:
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+Selected Papers
+======
+
+Full Publications List
+======
 1. **Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
     **Y. Saito**<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
     [*Nature* **592**, 220-224 (2020).](https://www.nature.com/articles/s41586-021-03409-2)
