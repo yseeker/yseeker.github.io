@@ -51,7 +51,7 @@ R. Wakatsuki<sup>+</sup>, **Y. Saito**<sup>+</sup>, S. Hoshino, Y. M. Itahashi, 
 **Y. Saito**, T. Nojima, Y. Iwasa<br>
 [*Superconductor Science and Technology* (SUST) **29**, 093001 (2016).](https://iopscience.iop.org/article/10.1088/0953-2048/29/9/093001)
 1. **Gate-tuned thermoelectric power in black phosphorus<br>**
-**Y. Saito**<sup>+</sup>, T. Iizuka<sup>+</sup>, T. Koretsune, R. Arita, S. Shimizu, and Y. Iwasa<sub>
+**Y. Saito**<sup>+</sup>, T. Iizuka<sup>+</sup>, T. Koretsune, R. Arita, S. Shimizu, and Y. Iwasa<br>
 [*Nano Letters* **16**, 4819-4824 (2016).](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00999)
 1. **Gate-optimized thermoelectric power factor in ultrathin WSe<sub>2</sub> single crystals<br>**
 M. Yoshida, T. Iizuka, **Y. Saito**, M. Onga, R. Suzuki, Y. J. Zhang, Y. Iwasa and S. Shimizu<br>
