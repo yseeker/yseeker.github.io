@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+## About
+I am a experimental condensed matter physicist at the University of California, Santa Barbara. He received his B.Eng., M.Eng. and Ph.D. in Applied Physics from the University of Tokyo under the supervision of Prof. Yoshihiro Iwasa. After a short-period postdoc at RIKEN, he joined Andrea Young’s group at the University of California, Santa Barbara in October 2018 as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/resources/funding/elings-prize/fellows). His current research focuses on quantum phenomena in 2D materials and van der Waals moire heterostructures.
 
-I'am a experimental condensed matter physicist at the University of California, Santa Barbara. He received his B.Eng., M.Eng. and Ph.D. in Applied Physics from the University of Tokyo under the supervision of Prof. Yoshihiro Iwasa. After a short-period postdoc at RIKEN, he joined Andrea Young’s group at the University of California, Santa Barbara in October 2018 as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/resources/funding/elings-prize/fellows). His current research focuses on quantum phenomena in 2D materials and van der Waals moire heterostructures.
-
-Education
-======
+## Education
 * **Doctor of Philosophy (Ph.D.) in Applied Physics**, March 2018<br>
   The University of Tokyo, Japan<br>
   Thesis: Study on Electric-Field-Induced Superconductivity<br>
@@ -24,8 +23,7 @@ Education
 * **Bachelor of Engineering**, March 2013<br>
   The University of Tokyo, Japan
 
-Work experience
-======
+## Work experience
 * Elings Prize Fellow at University of California, Santa Barbara (CA, USA)<br>
   October 2018 – present<br>
   Experimental research on quantum phenomena in twisted bilayer graphene and flat band physics
@@ -34,8 +32,7 @@ Work experience
   April 2018 – September 2018<br>
   Materials Informatics in 2D materials and van der Waals heterostructure
 
-Selected Honors and Awards
-======
+## Selected Honors and Awards
 * 37th Inoue Research Award for Young Scientists （第37回 井上研究奨励賞） from Inoue Foundation for Science, Feburuary 2021
 * 13th Young Scientist Award of the Physical Society of Japan （第13回 日本物理学会若手奨励賞（領域６）） from the Physical Society of Japan, March 2019
 * Elings Prize Fellowship in Science 2018
