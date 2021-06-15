@@ -14,8 +14,7 @@ I am a experimental condensed matter physicist at the University of California, 
 ## Interests
 Quantum Materials, Machine learning, Materials Informatics
 
-
-## Work experience
+## Work Experience
 
 * **Elings Prize Fellow at University of California**, Santa Barbara (CA, USA)<br>
   October 2018 – present<br>
