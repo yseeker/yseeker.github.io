@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 ## Selected Papers
-
-Publications
 **Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
     **Y. Saito**<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
     [*Nature* **592**, 220-224 (2020).](https://www.nature.com/articles/s41586-021-03409-2)
@@ -28,7 +26,7 @@ According to the magneto-transport studies in 2D superconducting ZrNCl and MoS2,
 
 **Superconductivity protected by spin-valley locking in ion-gated MoS<sub>2</sub><br>**
 **Y. Saito**, Y. Nakamura, M. S. Bahramy, Y. Kohama, J. T. Ye, Y. Kasahara, Y. Nakagawa, M. Onga, M. Tokunaga, T. Nojima, Y. Yanase and Y. Iwasa<br>
-[*Nature Physics* **12**, 144ー149 (2016).](https://www.nature.com/articles/nphys3580
+[*Nature Physics* **12**, 144ー149 (2016).](https://www.nature.com/articles/nphys3580)
 
 Perspective “Opening the gate on superconductivity” Science 350, 1316ー1317 (2015).
 News and Views “Two-dimensional superconductivity: The Ising on the monolayer” Nature Physics 12, 112ー113 (2016).
