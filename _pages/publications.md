@@ -26,11 +26,11 @@ According to the magneto-transport studies in 2D superconducting ZrNCl and MoS2,
 
 **Superconductivity protected by spin-valley locking in ion-gated MoS<sub>2</sub><br>**
 **Y. Saito**, Y. Nakamura, M. S. Bahramy, Y. Kohama, J. T. Ye, Y. Kasahara, Y. Nakagawa, M. Onga, M. Tokunaga, T. Nojima, Y. Yanase and Y. Iwasa<br>
-[*Nature Physics* **12**, 144ー149 (2016).](https://www.nature.com/articles/nphys3580)
+[*Nature Physics* **12**, 144-149 (2016).](https://www.nature.com/articles/nphys3580)
 
-Perspective “Opening the gate on superconductivity” Science 350, 1316ー1317 (2015).
-News and Views “Two-dimensional superconductivity: The Ising on the monolayer” Nature Physics 12, 112ー113 (2016).
-UTokyo Research “2D superconductor surviving in high magnetic fields over 50 Tesla” (Link)
+**Perspective** “Opening the gate on superconductivity” Science 350, 1316ー1317 (2015).<br>
+**News and Views** “Two-dimensional superconductivity: The Ising on the monolayer” Nature Physics 12, 112ー113 (2016).<br>
+**UTokyo Research** “2D superconductor surviving in high magnetic fields over 50 Tesla” (Link)
 
 By performing pulsed high-magnetic-field measurements up to 55 Tesla, we found that the gate-induced superconductivity in MoS2 single crystals exhibits an anomalously large upper critical field of approximately 52 T, which indicates an enhancement of the Pauli limit by a factor of four compared to the conventional one. Combined with first-principles calculation and associated realistic tight-binding calculations based numerical estimation of the upper critical field, we reveal that this unusual behavior is due to an inter-valley Cooper pairing that is protected by spin-valley locking originating from inplane mirror symmetry breaking in MoS2 single layer and strong spin-orbit coupling (Ising supercoductivtiy).
 
@@ -40,8 +40,8 @@ By performing pulsed high-magnetic-field measurements up to 55 Tesla, we found t
 **Y. Saito**, Y. Kasahara, J. T. Ye, Y. Iwasa and T. Nojima<br>
 [*Science* **350**, 409-413 (2015).](https://science.sciencemag.org/content/350/6259/409)
 
-UTokyo Research “The ultimate 2D superconductor” (Link)
-Highlighted in Asian Scientist as “A Minimally Disordered 2D Superconductor” (Link)
+**UTokyo Research** “The ultimate 2D superconductor” (Link)<br>
+**Highlighted** in Asian Scientist as “A Minimally Disordered 2D Superconductor” (Link)
 
 We found that an ion-gated ZrNCl single crystal, exhibiting a dome-shaped phase diagram (Tc vs carrier density), becomes a truly 2D crystalline superconductor with the effective superconducting thickness of 1.8 nanometers, which is thinner than one-unit-cell. In particular, we discovered that the zero resistance state is immediately destroyed by the application of out-of-plane magnetic fields, and consequently, a quantum metallic state is stabilized in a wide range of magnetic fields. We concluded that this quantum metallic is caused by the quantum tunneling of vortices due to the extremely weak pinning and disorder.
 
@@ -99,7 +99,7 @@ M. Yoshida, T. Iizuka, **Y. Saito**, M. Onga, R. Suzuki, Y. J. Zhang, Y. Iwasa a
 [*Nano Letters* **16**, 2061-2065 (2016).](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b00075)
 1. **Superconductivity protected by spin-valley locking in ion-gated MoS<sub>2</sub><br>**
 **Y. Saito**, Y. Nakamura, M. S. Bahramy, Y. Kohama, J. T. Ye, Y. Kasahara, Y. Nakagawa, M. Onga, M. Tokunaga, T. Nojima, Y. Yanase and Y. Iwasa<br>
-[*Nature Physics* **12**, 144ー149 (2016).](https://www.nature.com/articles/nphys3580)
+[*Nature Physics* **12**, 144-149 (2016).](https://www.nature.com/articles/nphys3580)
 1. **Metallic ground state in an ion-gated two-dimensional superconductor<br>**
 **Y. Saito**, Y. Kasahara, J. T. Ye, Y. Iwasa and T. Nojima<br>
 [*Science* **350**, 409-413 (2015).](https://science.sciencemag.org/content/350/6259/409)
