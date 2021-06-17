@@ -11,9 +11,11 @@ Publications
 **Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
     **Y. Saito**<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
     [*Nature* **592**, 220-224 (2020).](https://www.nature.com/articles/s41586-021-03409-2)
+
 **Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene**<br>
 **Y. Saito**, J. Ge, L. Rademaker, K. Watanabe, T. Taniguchi, D. A. Abanin, A. F. Young<br>
 [*Nature Physics* **17**, 478-481 (2020).](https://www.nature.com/articles/s41567-020-01129-4)
+
 **Independent superconductors and correlated insulators in twisted bilayer graphene**<br>
 **Y. Saito**, J. Ge, K. Watanabe, T. Taniguchi, A. F. Young<br>
 [*Nature Physics* **16**, 926-930 (2020).](https://www.nature.com/articles/s41567-020-0928-3) 
@@ -45,7 +47,7 @@ Highlighted in Asian Scientist as “A Minimally Disordered 2D Superconductor”
 
 We found that an ion-gated ZrNCl single crystal, exhibiting a dome-shaped phase diagram (Tc vs carrier density), becomes a truly 2D crystalline superconductor with the effective superconducting thickness of 1.8 nanometers, which is thinner than one-unit-cell. In particular, we discovered that the zero resistance state is immediately destroyed by the application of out-of-plane magnetic fields, and consequently, a quantum metallic state is stabilized in a wide range of magnetic fields. We concluded that this quantum metallic is caused by the quantum tunneling of vortices due to the extremely weak pinning and disorder.
 
-![](2021-06-17-11-59-35.png)
+![](2021-06-17-12-08-14.png)
 
 
 
