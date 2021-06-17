@@ -8,13 +8,29 @@ author_profile: true
 ## Selected Papers
 
 Publications
+**Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
+    **Y. Saito**<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
+    [*Nature* **592**, 220-224 (2020).](https://www.nature.com/articles/s41586-021-03409-2)
+**Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene**<br>
+**Y. Saito**, J. Ge, L. Rademaker, K. Watanabe, T. Taniguchi, D. A. Abanin, A. F. Young<br>
+[*Nature Physics* **17**, 478-481 (2020).](https://www.nature.com/articles/s41567-020-01129-4)
+**Independent superconductors and correlated insulators in twisted bilayer graphene**<br>
+**Y. Saito**, J. Ge, K. Watanabe, T. Taniguchi, A. F. Young<br>
+[*Nature Physics* **16**, 926-930 (2020).](https://www.nature.com/articles/s41567-020-0928-3) 
 
+ **Quantum phase transitions in highly crystalline two-dimensional superconductors<br>**
+**Y. Saito** T. Nojima and Y. Iwasa<br>
+[*Nature Communications* **9**, 778 (2018).](https://www.nature.com/articles/s41467-018-03275-z)
 
- 
+**Superconductivity protected by spin-valley locking in ion-gated MoS<sub>2</sub><br>**
+**Y. Saito**, Y. Nakamura, M. S. Bahramy, Y. Kohama, J. T. Ye, Y. Kasahara, Y. Nakagawa, M. Onga, M. Tokunaga, T. Nojima, Y. Yanase and Y. Iwasa<br>
+[*Nature Physics* **12**, 144ー149 (2016).](https://www.nature.com/articles/nphys3580
 
- 
+**Metallic ground state in an ion-gated two-dimensional superconductor<br>**
+**Y. Saito**, Y. Kasahara, J. T. Ye, Y. Iwasa and T. Nojima<br>
+[*Science* **350**, 409-413 (2015).](https://science.sciencemag.org/content/350/6259/409)
 
-Selected Papers
+![](2021-06-17-11-59-35.png)
 
 
 ## Full Publication List
