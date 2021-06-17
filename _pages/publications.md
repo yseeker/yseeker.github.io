@@ -12,11 +12,15 @@ author_profile: true
 
 In condensed-matter systems, higher temperatures typically disfavour ordered phases, leading to an upper critical temperature for magnetism, superconductivity and other phenomena. An exception is the Pomeranchuk effect in <sup>3</sup>He, in which the liquid ground state freezes upon increasing the temperature, owing to the large entropy of the paramagnetic solid phase. Here we show that a similar mechanism describes the finite-temperature dynamics of spin and valley isospins in magic-angle twisted bilayer graphene. Notably, a resistivity peak appears at high temperatures near a superlattice filling factor of −1, despite no signs of a commensurate correlated phase appearing in the low-temperature limit. Tilted-field magnetotransport and thermodynamic measurements of the in-plane magnetic moment show that the resistivity peak is connected to a finite-field magnetic phase transition at which the system develops finite isospin polarization. These data are suggestive of a Pomeranchuk-type mechanism, in which the entropy of disordered isospin moments in the ferromagnetic phase stabilizes the phase relative to an isospin-unpolarized Fermi liquid phase at higher temperatures. We find the entropy, in units of Boltzmann’s constant, to be of the order of unity per unit cell area, with a measurable fraction that is suppressed by an in-plane magnetic field consistent with a contribution from disordered spins.
 
+![](2021-06-17-14-33-14.png)
+
 **Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene**<br>
 **Y. Saito**, J. Ge, L. Rademaker, K. Watanabe, T. Taniguchi, D. A. Abanin, A. F. Young<br>
 [*Nature Physics* **17**, 478-481 (2020).](https://www.nature.com/articles/s41567-020-01129-4)
 
 When the twist angle between two layers of graphene is approximately 1.1°, interlayer tunnelling and rotational misalignment conspire to create a pair of flat bands that are known to host various insulating, superconducting and magnetic states when they are partially filled. Most work has focused on the zero-magnetic-field phase diagram, but here we show that twisted bilayer graphene in a finite magnetic field hosts a cascade of ferromagnetic Chern insulators with Chern number ∣C∣ = 1, 2 and 3. The emergence of the Chern insulators is driven by the interplay of the moiré superlattice with the magnetic field, which endows the flat bands with a substructure of topologically non-trivial subbands characteristic of the Hofstadter butterfly. The new phases can be accounted for in a Stoner picture; in contrast to conventional quantum Hall ferromagnets, electrons polarize into between one and four copies of a single Hofstadter subband. Distinct from other moiré heterostructures, Coulomb interactions dominate in twisted bilayer graphene, as manifested by the appearance of Chern insulating states with spontaneously broken superlattice symmetry at half filling of a C = −2 subband.
+
+![](2021-06-17-14-37-18.png)
 
 **Independent superconductors and correlated insulators in twisted bilayer graphene**<br>
 **Y. Saito**, J. Ge, K. Watanabe, T. Taniguchi, A. F. Young<br>
@@ -49,9 +53,9 @@ By performing pulsed high-magnetic-field measurements up to 55 Tesla, we found t
 **UTokyo Research** “The ultimate 2D superconductor” (Link)<br>
 **Highlighted in Asian Scientist** as “A Minimally Disordered 2D Superconductor” (Link)
 
-We found that an ion-gated ZrNCl single crystal, exhibiting a dome-shaped phase diagram (Tc vs carrier density), becomes a truly 2D crystalline superconductor with the effective superconducting thickness of 1.8 nanometers, which is thinner than one-unit-cell. In particular, we discovered that the zero resistance state is immediately destroyed by the application of out-of-plane magnetic fields, and consequently, a quantum metallic state is stabilized in a wide range of magnetic fields. We concluded that this quantum metallic is caused by the quantum tunneling of vortices due to the extremely weak pinning and disorder.
+We found that an ion-gated ZrNCl single crystal, exhibiting a dome-shaped phase diagram (T<sub>c</sub> vs carrier density), becomes a truly 2D crystalline superconductor with the effective superconducting thickness of 1.8 nanometers, which is thinner than one-unit-cell. In particular, we discovered that the zero resistance state is immediately destroyed by the application of out-of-plane magnetic fields, and consequently, a quantum metallic state is stabilized in a wide range of magnetic fields. We concluded that this quantum metallic is caused by the quantum tunneling of vortices due to the extremely weak pinning and disorder.
 
-![](2021-06-17-12-08-14.png)
+![](2021-06-17-14-33-46.png)
 
 
 
