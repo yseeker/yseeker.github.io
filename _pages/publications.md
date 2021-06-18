@@ -12,6 +12,11 @@ author_profile: true
 
 In condensed-matter systems, higher temperatures typically disfavour ordered phases, leading to an upper critical temperature for magnetism, superconductivity and other phenomena. An exception is the Pomeranchuk effect in <sup>3</sup>He, in which the liquid ground state freezes upon increasing the temperature, owing to the large entropy of the paramagnetic solid phase. Here we show that a similar mechanism describes the finite-temperature dynamics of spin and valley isospins in magic-angle twisted bilayer graphene. Notably, a resistivity peak appears at high temperatures near a superlattice filling factor of −1, despite no signs of a commensurate correlated phase appearing in the low-temperature limit. Tilted-field magnetotransport and thermodynamic measurements of the in-plane magnetic moment show that the resistivity peak is connected to a finite-field magnetic phase transition at which the system develops finite isospin polarization. These data are suggestive of a Pomeranchuk-type mechanism, in which the entropy of disordered isospin moments in the ferromagnetic phase stabilizes the phase relative to an isospin-unpolarized Fermi liquid phase at higher temperatures. We find the entropy, in units of Boltzmann’s constant, to be of the order of unity per unit cell area, with a measurable fraction that is suppressed by an in-plane magnetic field consistent with a contribution from disordered spins.
 
+**News and Views** ["Heating freezes electrons in twisted bilayer graphene" *Nature* **592**, 851 (2021)](https://www.nature.com/articles/d41586-021-00843-0)<br>
+**Physics World** ["Electrons in twisted graphene ‘freeze’ when heated"](https://physicsworld.com/a/electrons-in-twisted-graphene-freeze-when-heated/)<br>
+**Phys Org** ["A graphene system that freezes electrons as the temperature rises"](https://phys.org/news/2021-04-graphene-electrons-temperature.html)
+Highlighted in [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=4312)
+
 ![](2021-06-17-14-33-14.png)
 
 **Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene**<br>
@@ -28,11 +33,17 @@ When the twist angle between two layers of graphene is approximately 1.1°, inte
 
 When two sheets of graphene are stacked on top of each other with a small twist of angle θ ≈ 1.1° between them, theory predicts the formation of a flat electronic band. Experiments have shown correlated insulating, superconducting and ferromagnetic states when the flat band is partially filled. The proximity of superconductivity to correlated insulators suggested a close relationship between these states, reminiscent of the cuprates where superconductivity arises by doping a Mott insulator. Here, we show that superconductivity can appear far away from the correlated insulating states. Although both superconductivity and correlated insulating behaviour are strongest near the flat-band condition, superconductivity survives to larger detuning of the angle. Our observations are consistent with a ‘competing phases’ picture in which insulators and superconductivity arise from different mechanisms.
 
+Highlighted in Journal Club for Condensed Matter Physics
+
+![](2021-06-17-17-18-33.png)
+
  **Quantum phase transitions in highly crystalline two-dimensional superconductors<br>**
 **Y. Saito** T. Nojima and Y. Iwasa<br>
 [*Nature Communications* **9**, 778 (2018).](https://www.nature.com/articles/s41467-018-03275-z)
 
 According to the magneto-transport studies in 2D superconducting ZrNCl and MoS2, we found that the quantum metallic state commonly observed at low magnetic fields is converted via the quantum Griffiths state to the weakly localized metal at high magnetic fields. The scaling behavior, characterized by the diverging dynamical critical exponent (Griffiths singularity), indicates that the quantum fluctuation manifests itself as superconducting puddles. The present results suggest that an evolution from the quantum metallic to the quantum Griffiths state is generic nature in highly crystalline 2D superconductors with weak pinning potentials.
+
+![](2021-06-17-17-16-32.png)
 
 **Superconductivity protected by spin-valley locking in ion-gated MoS<sub>2</sub><br>**
 **Y. Saito**, Y. Nakamura, M. S. Bahramy, Y. Kohama, J. T. Ye, Y. Kasahara, Y. Nakagawa, M. Onga, M. Tokunaga, T. Nojima, Y. Yanase and Y. Iwasa<br>
