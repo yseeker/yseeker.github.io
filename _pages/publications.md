@@ -14,7 +14,7 @@ In condensed-matter systems, higher temperatures typically disfavour ordered pha
 
 **News and Views** ["Heating freezes electrons in twisted bilayer graphene" *Nature* **592**, 851 (2021)](https://www.nature.com/articles/d41586-021-00843-0)<br>
 **Physics World** ["Electrons in twisted graphene ‘freeze’ when heated"](https://physicsworld.com/a/electrons-in-twisted-graphene-freeze-when-heated/)<br>
-**Phys Org** ["A graphene system that freezes electrons as the temperature rises"](https://phys.org/news/2021-04-graphene-electrons-temperature.html)
+**Phys Org** ["A graphene system that freezes electrons as the temperature rises"](https://phys.org/news/2021-04-graphene-electrons-temperature.html)<br>
 Highlighted in [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=4312)
 
 ![](2021-06-17-14-33-14.png)
