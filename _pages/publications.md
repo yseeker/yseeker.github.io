@@ -49,7 +49,7 @@ According to the magneto-transport studies in 2D superconducting ZrNCl and MoS2,
 **Y. Saito**, Y. Nakamura, M. S. Bahramy, Y. Kohama, J. T. Ye, Y. Kasahara, Y. Nakagawa, M. Onga, M. Tokunaga, T. Nojima, Y. Yanase and Y. Iwasa<br>
 [*Nature Physics* **12**, 144-149 (2016).](https://www.nature.com/articles/nphys3580) ([arXiv PDF](https://arxiv.org/ftp/arxiv/papers/1506/1506.04146.pdf))
 
-**News and Views** [“The Ising on the monolayer” *Nature Physics* **12**, 112-113](https://www.nature.com/articles/nphys3647) (2016).<br>
+**News and Views** [“The Ising on the monolayer” *Nature Physics* **12**, 112-113 (2016)](https://www.nature.com/articles/nphys3647).<br>
 **UTokyo Research** [“2D superconductor surviving in high magnetic fields over 50 Tesla”](https://www.u-tokyo.ac.jp/focus/en/articles/a_00435.html)
 
 By performing pulsed high-magnetic-field measurements up to 55 Tesla, we found that the gate-induced superconductivity in MoS<sub>2</sub> single crystals exhibits an anomalously large upper critical field of approximately 52 T, which indicates an enhancement of the Pauli limit by a factor of four compared to the conventional one. Combined with first-principles calculation and associated realistic tight-binding calculations based numerical estimation of the upper critical field, we reveal that this unusual behavior is due to an inter-valley Cooper pairing that is protected by spin-valley locking originating from inplane mirror symmetry breaking in MoS<sub>2</sub> single layer and strong spin-orbit coupling (Ising supercoductivtiy).
