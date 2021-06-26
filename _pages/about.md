@@ -38,7 +38,7 @@ Quantum Materials, Machine learning, Materials Informatics
 
 ## Selected Honors and Awards
 - **37th Inoue Research Award for Young Scientists** （第37回 井上研究奨励賞） from Inoue Foundation for Science, Feburuary 2021
-^ **13th Young Scientist Award of the Physical Society of Japan** （第13回 日本物理学会若手奨励賞（領域６）） from the Physical Society of Japan, March 2019
+- **13th Young Scientist Award of the Physical Society of Japan** （第13回 日本物理学会若手奨励賞（領域６）） from the Physical Society of Japan, March 2019
 - **Elings Prize Fellowship in Science 2018**
 from California NanoSystems Institute, University of California, Santa Barbara, March 2018
 - **8th JSPS Ikushi Prize** (第８回 日本学術振興会育志賞)  from Japan Society for the Promotion of Science (JSPS), March 2018
