@@ -16,7 +16,7 @@ Quantum Materials, Machine learning, Materials Informatics
 
 ## Work Experience
 
-- **Elings Prize Fellow at University of California**, Santa Barbara (CA, USA)<br>
+- **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
   October 2018 – present<br>
   Experimental research on quantum transport in twisted bilayer graphene
 - **Postdoctoral Researcher at RIKEN** (Tokyo, Japan)<br>
