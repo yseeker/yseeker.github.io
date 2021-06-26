@@ -21,7 +21,7 @@ Highlighted in [Journal Club for Condensed Matter Physics](https://www.condmatjc
 
 **Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene**<br>
 **Y. Saito**, J. Ge, L. Rademaker, K. Watanabe, T. Taniguchi, D. A. Abanin, A. F. Young<br>
-[*Nature Physics* **17**, 478-481 (2020).](https://www.nature.com/articles/s41567-020-01129-4) ([arXiv PDF](https://arxiv.org/pdf/2007.06115.pdf))
+[*Nature Physics* **17**, 478-481 (2021).](https://www.nature.com/articles/s41567-020-01129-4) ([arXiv PDF](https://arxiv.org/pdf/2007.06115.pdf))
 
 When the twist angle between two layers of graphene is approximately 1.1°, interlayer tunnelling and rotational misalignment conspire to create a pair of flat bands that are known to host various insulating, superconducting and magnetic states when they are partially filled. Most work has focused on the zero-magnetic-field phase diagram, but here we show that twisted bilayer graphene in a finite magnetic field hosts a cascade of ferromagnetic Chern insulators with Chern number ∣C∣ = 1, 2 and 3. The emergence of the Chern insulators is driven by the interplay of the moiré superlattice with the magnetic field, which endows the flat bands with a substructure of topologically non-trivial subbands characteristic of the Hofstadter butterfly. The new phases can be accounted for in a Stoner picture; in contrast to conventional quantum Hall ferromagnets, electrons polarize into between one and four copies of a single Hofstadter subband. Distinct from other moiré heterostructures, Coulomb interactions dominate in twisted bilayer graphene, as manifested by the appearance of Chern insulating states with spontaneously broken superlattice symmetry at half filling of a C = −2 subband.
 
