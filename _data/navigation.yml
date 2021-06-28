@@ -1,11 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
   - title: "CV"
     url: /files/yusaito_CV.pdf
 
+  - title: "Publications"
+    url: /publications/
+    
   - title: "Photos"
     url: https://500px.com/p/yusaito
-    
+
+  - title: "Blog"
+    url: https://ys-blog.hatenadiary.com/archive
+
