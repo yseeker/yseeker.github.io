@@ -12,3 +12,6 @@ main:
   - title: "Blog"
     url: https://ys-blog.hatenadiary.com/archive
 
+  - title: "Posts"
+    url: /posts/
+
