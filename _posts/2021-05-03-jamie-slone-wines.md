@@ -5,7 +5,7 @@ permalink: /posts/2021/05/jamie-slone-wines/
 tags:
   - Wines
 ---
-My wife and I enjoyed fantastic wine tasting at Jamie Slone Wines.
+Enjoyed fantastic wine tasting at Jamie Slone Wines with my wife!
 
 <img src="/images/2021-06-28-18-47-04.png" style="display: block; margin: auto;" />
 <br>
