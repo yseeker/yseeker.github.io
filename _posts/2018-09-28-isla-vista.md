@@ -1,6 +1,6 @@
 ---
 title: 'New Life in Isla Vista'
-date: 2018-09-27
+date: 2018-09-28
 permalink: /posts/2018/09/isla-vista/
 tags:
   - Life
@@ -8,7 +8,7 @@ tags:
 
 Excited in starting a new life in Isla Vista!
 
-<table border="0" cellspacing="0" cellpadding="1">
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td><img src="/images/2021-06-29-11-18-11.png"></td>
 <td><img src="/images/2021-06-29-11-10-20.png"></td>
