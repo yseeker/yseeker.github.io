@@ -1,7 +1,7 @@
 ---
 title: 'Channel Islands National Park'
 date: 2019-09-06
-permalink: /posts/2019/09/channel-islands/
+permalink: /posts/2019/09/channel-islands-test/
 tags:
   - Trip
 ---
