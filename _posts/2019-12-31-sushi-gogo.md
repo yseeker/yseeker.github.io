@@ -3,7 +3,7 @@ title: 'Sushi Go Go'
 date: 2019-12-31
 permalink: /posts/2019/12/sushigogo/
 tags:
-  - Trip
+  - Food
 ---
 Enjoyed sushi and urchin at Sushi Go Go!
 

@@ -3,7 +3,7 @@ title: 'Lindau Nobel Laureate Meetings'
 date: 2019-07-02
 permalink: /posts/2019/07/linedau-meeting/
 tags:
-  - Life
+  - Trip
 ---
 
 Fantastic experince in Lindau Nobel Laureate Meetings

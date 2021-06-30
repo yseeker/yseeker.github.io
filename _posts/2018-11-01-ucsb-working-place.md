@@ -3,7 +3,7 @@ title: 'Working place in UCSB'
 date: 2018-11-01
 permalink: /posts/2018/11/ucsb-working-place/
 tags:
-  - Life
+  - Work
 ---
 
 Nanofab cleanroom
