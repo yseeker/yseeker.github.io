@@ -5,15 +5,15 @@ main:
 
   - title: "Publications"
     url: /publications/
-    
-  - title: "Photos"
-    url: https://500px.com/p/yusaito
-
-  - title: "Blog"
-    url: https://ys-blog.hatenadiary.com/archive
 
   - title: "Posts"
     url: /year-archive/
+    
+  - title: "Blog"
+    url: https://ys-blog.hatenadiary.com/archive
+
+  - title: "Photos"
+    url: https://500px.com/p/yusaito
 
   - title: "Links"
     url: https://linktr.ee/yusaito
