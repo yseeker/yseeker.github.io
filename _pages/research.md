@@ -15,7 +15,9 @@ Related video is available [here](https://online.kitp.ucsb.edu/online/bands-oc20
 1. Y. Saito et al. [*Nature Physics* **17**, 478-481 (2021).](https://www.nature.com/articles/s41567-020-01129-4) ([arXiv PDF](https://arxiv.org/pdf/2007.06115.pdf))
 2. Y. Saito et al. [*Nature* **592**, 220-224 (2021).](https://www.nature.com/articles/s41586-021-03409-2) ([arXiv PDF](https://arxiv.org/pdf/2008.10830.pdf))
 
-![](GrapheneBNMoire4000x4000.gif)
+<div align="center">
+<img src="GrapheneBNMoire4000x4000.gif" width="500"><br>
+</div>
 The gif image is from http://www.condmat.physics.manchester.ac.uk/cmpimages/GrapheneBNMoire4000x4000.gif 
 
 ## Electric-field-induced superconductivity in ionic-liquid gated 2D materials (at the University of Tokyo)
