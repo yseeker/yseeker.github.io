@@ -11,12 +11,11 @@ Low-density flat-band systems play a crucial role in making the sytem strongly c
 Related video is available [here](https://online.kitp.ucsb.edu/online/bands-oc20/young/rm/jwvideo.html).
 
 1. Y. Saito et al. [*Nature Physics* **16**, 926-930 (2020).](https://www.nature.com/articles/s41567-020-0928-3) ([arXiv PDF](https://arxiv.org/pdf/1911.13302.pdf))
-
 1. Y. Saito et al. [*Nature Physics* **17**, 478-481 (2021).](https://www.nature.com/articles/s41567-020-01129-4) ([arXiv PDF](https://arxiv.org/pdf/2007.06115.pdf))
 2. Y. Saito et al. [*Nature* **592**, 220-224 (2021).](https://www.nature.com/articles/s41586-021-03409-2) ([arXiv PDF](https://arxiv.org/pdf/2008.10830.pdf))
 
 <div align="center">
-<img src="GrapheneBNMoire4000x4000.gif" width="500"><br>
+<img src="/_pages/GrapheneBNMoire4000x4000.gif" width="500"><br>
 </div>
 The gif image is from http://www.condmat.physics.manchester.ac.uk/cmpimages/GrapheneBNMoire4000x4000.gif 
 
