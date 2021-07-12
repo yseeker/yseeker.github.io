@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/yusaito_CV.pdf
+  - title: "Research"
+    url: /research/
 
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /files/yusaito_CV.pdf
 
   - title: "Posts"
     url: /year-archive/
