@@ -17,7 +17,7 @@ Related video is available [here](https://online.kitp.ucsb.edu/online/bands-oc20
 <div align="center">
 <img src="/_pages/GrapheneBNMoire4000x4000.gif" width="500"><br>
 </div>
-The gif image is from [Manchester](http://www.condmat.physics.manchester.ac.uk/imagelibrary/)
+The gif image is from [Manchester image library](http://www.condmat.physics.manchester.ac.uk/imagelibrary/)
 
 ## Electric-field-induced superconductivity in ionic-liquid gated 2D materials (at the University of Tokyo)
 Two-dimensional (2D) crystals are attracting growing interest in condensed matter physics, since these systems exhibit not only rich electronic and photonic properties but also exotic electronic phase transitions including superconductivity and charge density wave. Moreover, owing to the recent development of transfer methods after exfoliation and electric-double-layer transistors, superconducting 2D atomic crystals, the thicknesses of which are below 1–2 nm, have been successfully obtained. We found a a series of their novel properties in 2D crystalline superconductors induced by ionic-liquid gating. In out-of-plane magnetic field, we found quantum metallic states (or possible metallic ground states) and quatum Griffiths state and and also robust superconductivity against in-plane magnetic fields. These phenomena can be discussed with the effects of weakened disorder and/or broken spacial inversion symmetry leading to valley-dependent spin-momentum locking (spin-valley locking). These examples suggest the superconducting 2D crystals are new platforms for investigating the intrinsic quantum phases as well as exotic nature in 2D superconductors.
