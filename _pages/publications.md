@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Selected Papers
+
+<sup>+</sup> equal contribution
+
 **Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
     **Y. Saito**<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
     [*Nature* **592**, 220-224 (2021).](https://www.nature.com/articles/s41586-021-03409-2) ([arXiv PDF](https://arxiv.org/pdf/2008.10830.pdf))
@@ -84,7 +87,7 @@ We found that an ion-gated ZrNCl single crystal, exhibiting a dome-shaped phase 
 **Y. Saito**, Y. M. Itahashi, T. Nojima and Y. Iwasa <br>
 [*Physical Review Materials* **4**, 074003 (2020).](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074003)
 1. **Quantum and classical ratchet motions of vortices in a 2D trigonal superconductor<br>**
-Y. M. Itahashi<sup>+</sup>, **Y. Saito**<sup>+</sup>, T. Nojima, T. Ideue and Y. Iwasa<br>
+Y. M. Itahashi<sup>+</sup>, **Y. Saito**<sup>+</sup> (co-first), T. Nojima, T. Ideue and Y. Iwasa<br>
 [*Physical Review Research* **2**, 023127 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023127)
 1. **Nonreciprocal transport in gate-induced polar superconductor SrTiO<sub>3</sub>**<br>
 Y. M. Itahashi, T. Ideue, **Y. Saito**, S. Shimizu, T. Ouchi, T. Nojima and Y. Iwasa<br>
@@ -103,7 +106,7 @@ F. Qin, T. Ideue, W. Shi, Y. Zhang, R. Suzuki, M. Yoshida, **Y. Saito** and Y. I
 **Y. Saito** T. Nojima and Y. Iwasa<br>
 [*Nature Communications* **9**, 778 (2018).](https://www.nature.com/articles/s41467-018-03275-z)
 1. **Nonreciprocal charge transport in noncentrosymmetric superconductors<br>**
-R. Wakatsuki<sup>+</sup>, **Y. Saito**<sup>+</sup>, S. Hoshino, Y. M. Itahashi, T. Ideue, M. Ezawa, Y. Iwasa and N. Nagaosa<br>
+R. Wakatsuki<sup>+</sup>, **Y. Saito**<sup>+</sup> (co-first), S. Hoshino, Y. M. Itahashi, T. Ideue, M. Ezawa, Y. Iwasa and N. Nagaosa<br>
 [*Science Advances* **3**, e1602390 (2017).](https://advances.sciencemag.org/content/3/4/e1602390)
 1. **Highly crystalline 2D superconductors<br>**
 **Y. Saito**, T. Nojima, Y. Iwasa<br>
