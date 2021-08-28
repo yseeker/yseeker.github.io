@@ -1,7 +1,7 @@
 ---
 title: 'Wine tasing in Jamie Slone Wines'
 date: 2021-05-03
-permalink: /posts/2021/05/jamie-slone-wines/
+permalink: /posts/2021/05/jamie-slone-wines-b/
 tags:
   - Wine
 ---
