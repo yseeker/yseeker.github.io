@@ -1,11 +1,11 @@
 ---
-title: 'Wine tasing in Jamie Slone Wines'
+title: 'Honeymoon at Bora Bora island'
 date: 2021-05-03
-permalink: /posts/2021/05/jamie-slone-wines-b/
+permalink: /posts/2018/08/borabora/
 tags:
-  - Wine
+  - Life
 ---
-Enjoyed fantastic wine tasting at Jamie Slone Wines with my wife!
+Honeymoon at Bora Bora isalnd. One of the most beautiful sea in the world!
 
 <img src="/images/2021-08-27-21-56-17.png" style="display: block; margin: auto;" />
 <br>
