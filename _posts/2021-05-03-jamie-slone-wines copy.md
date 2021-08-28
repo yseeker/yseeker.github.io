@@ -1,6 +1,6 @@
 ---
 title: 'Honeymoon at Bora Bora island'
-date: 2021-05-03
+date: 2018-08-01
 permalink: /posts/2018/08/borabora/
 tags:
   - Life
