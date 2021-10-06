@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an experimental condensed matter physicist at the University of California, Santa Barbara. I received the B.Eng., M.Eng. and Ph.D. in Applied Physics from the University of Tokyo under the supervision of Prof. Yoshihiro Iwasa, where I worked on electric-field-induced 2D superconductivity. After a short-period postdoc in Molecular Informatics team at RIKEN AIP, I joined Prof. Andrea Young’s group at the University of California, Santa Barbara in October 2018 as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/resources/funding/elings-prize/fellows). My current research focuses on quantum phenomena in 2D materials and van der Waals moire heterostructures. 
+I am an experimental condensed matter physicist at the University of California, Santa Barbara. I received the B.Eng., M.Eng. and Ph.D. in Applied Physics from the University of Tokyo under the supervision of Prof. Yoshihiro Iwasa, where I worked on electric-field-induced 2D superconductivity. After a short-period postdoc in Molecular Informatics team at RIKEN AIP, I joined Prof. Andrea Young’s group at the University of California, Santa Barbara in October 2018 as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/resources/funding/elings-prize/fellows), where I was working on the research of quantum phenomena in twisted bilayer graphene. After the postdoc, I joined DATAGRID as a Senior Engineer. My current research focuses on deep generative models. 
 
 CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).
 
@@ -18,8 +18,10 @@ Quantum Materials, Machine learning, Materials Informatics
 
 ## Work Experience
 
+- **Senior Engineer at DATAGRID** (CA, USA)<br>
+  October 2021 – present
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
-  October 2018 – present<br>
+  October 2018 – September 2021
   Experimental research on quantum transport in twisted bilayer graphene
 - **Postdoctoral Researcher at RIKEN** (Tokyo, Japan)<br>
   April 2018 – September 2018<br>
