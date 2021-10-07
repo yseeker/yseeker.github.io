@@ -22,10 +22,8 @@ Quantum Materials, Machine learning, Materials Informatics
   October 2021 – present
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
   October 2018 – September 2021
-  Experimental research on quantum transport in twisted bilayer graphene
 - **Postdoctoral Researcher at RIKEN** (Tokyo, Japan)<br>
   April 2018 – September 2018<br>
-  Materials informatics in 2D materials
 
 ## Education
 
