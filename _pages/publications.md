@@ -74,7 +74,7 @@ We found that an ion-gated ZrNCl single crystal, exhibiting a dome-shaped phase 
 
 ## Full Publication List
 1. **Isospin magnetism and spin-triplet superconductivity in Bernal bilayer graphene**<br>
-H. Zhou, **Y. Saito**, L. A. Cohen, W. Huynh, C. L. Patterson, F. Yang, T. Taniguchi, K. Watanabe, A. F. Young<br>
+H. Zhou, **Y. Saito**, L. Cohen, W. Huynh, C. L. Patterson, F. Yang, T. Taniguchi, K. Watanabe, A. F. Young<br>
 [arXiv:2110.11317](https://arxiv.org/abs/2110.11317)
 2. **Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
 **Y. Saito**<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
