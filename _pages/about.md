@@ -18,7 +18,7 @@ Quantum Materials, Machine learning, Materials Informatics
 
 ## Work Experience
 
-- **Senior Engineer at DATAGRID** (Kyoto, Japan)<br>
+- **Senior Engineer at DATAGRID Inc.** (Kyoto, Japan)<br>
   October 2021 – present
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
   October 2018 – September 2021
