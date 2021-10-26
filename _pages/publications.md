@@ -73,11 +73,13 @@ We found that an ion-gated ZrNCl single crystal, exhibiting a dome-shaped phase 
 
 
 ## Full Publication List
-
-1. **Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
-    **Y. Saito**<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
-    [*Nature* **592**, 220-224 (2021).](https://www.nature.com/articles/s41586-021-03409-2)
-2. **Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene**<br>
+1. **Isospin magnetism and spin-triplet superconductivity in Bernal bilayer graphene**<br>
+H. Zhou, **Y. Saito**, L. A. Cohen, W. Huynh, C. L. Patterson, F. Yang, T. Taniguchi, K. Watanabe, A. F. Young<br>
+[arXiv:2110.11317](https://arxiv.org/abs/2110.11317)
+2. **Isospin Pomeranchuk effect in twisted bilayer graphene**<br>
+**Y. Saito**<sup>+</sup>, F. Wang<sup>+</sup>, J. Ge, X. Liu, T. Taniguchi, K. Watanabe, J.I.A. Li, E. Berg, A. F. Young<br>
+[*Nature* **592**, 220-224 (2021).](https://www.nature.com/articles/s41586-021-03409-2)
+3. **Hofstadter subband ferromagnetism and symmetry broken Chern insulators in twisted bilayer graphene**<br>
 **Y. Saito**, J. Ge, L. Rademaker, K. Watanabe, T. Taniguchi, D. A. Abanin, A. F. Young<br>
 [*Nature Physics* **17**, 478-481 (2021).](https://www.nature.com/articles/s41567-020-01129-4)
 1. **Independent superconductors and correlated insulators in twisted bilayer graphene**<br>
@@ -94,7 +96,7 @@ Y. M. Itahashi, T. Ideue, **Y. Saito**, S. Shimizu, T. Ouchi, T. Nojima and Y. I
 [*Science Advances* **6**, eaay9120 (2020).](https://advances.sciencemag.org/content/6/13/eaay9120)
 1. **Deep learning-based quality filtering of mechanically exfoliated 2D crystals<br>**
 **Y. Saito**<sup>+</sup>, Kento Shin<sup>+</sup>, Kei Terayama, Shaan Desai, Masaru Onga, Yuji Nakagawa,
-Yuki M. Itahashi, Yoshihiro Iwasa, Makoto Yamada, Koji Tsuda<br>
+Yuki M. Itahashi, Yoshihiro Iwasa, Makoto Yamada, Koji Tsuda<br>.
 [*npj Computational Materials* **5**, 124 (2019).](https://www.nature.com/articles/s41524-019-0262-4)
 1. **Gate-controlled  low  carrier  density  superconductors: Toward  the  two-dimensional BCS-BEC crossover<br>**
 Y. Nakagawa, **Y. Saito**, T. Nojima, K. Inumaru, S. Yamanaka and, Y. Kasahara and Y. Iwasa<br>
