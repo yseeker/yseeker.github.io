@@ -95,7 +95,7 @@ We found that an ion-gated ZrNCl single crystal, exhibiting a dome-shaped phase 
    [_Science Advances_ **6**, eaay9120 (2020).](https://advances.sciencemag.org/content/6/13/eaay9120)
 8. **Deep learning-based quality filtering of mechanically exfoliated 2D crystals<br>**
    **Y. Saito**<sup>+</sup>, Kento Shin<sup>+</sup>, Kei Terayama, Shaan Desai, Masaru Onga, Yuji Nakagawa,
-   Yuki M. Itahashi, Yoshihiro Iwasa, Makoto Yamada, Koji Tsuda<br>.
+   Yuki M. Itahashi, Yoshihiro Iwasa, Makoto Yamada, Koji Tsuda<br>
    [_npj Computational Materials_ **5**, 124 (2019).](https://www.nature.com/articles/s41524-019-0262-4)
 9. **Gate-controlled low carrier density superconductors: Toward the two-dimensional BCS-BEC crossover<br>**
    Y. Nakagawa, **Y. Saito**, T. Nojima, K. Inumaru, S. Yamanaka and, Y. Kasahara and Y. Iwasa<br>

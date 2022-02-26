@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
@@ -9,11 +9,11 @@ main:
   - title: "CV"
     url: /files/yusaito_CV.pdf
 
-  - title: "Posts"
-    url: /year-archive/
+  # - title: "Posts"
+  #   url: /year-archive/
 
   - title: "Blog"
-    url: https://ys-blog.hatenadiary.com/archive
+    url: /blog/
 
   - title: "Photos"
     url: https://500px.com/p/yusaito
