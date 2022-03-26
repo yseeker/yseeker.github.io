@@ -37,22 +37,22 @@ CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).
 
 ## Skills
 
-### speciallity
+### Speciality
 
-- Experimental condensed matter physics focusing on quantum materials
-- Quantum physics / Materials science; semiconductor-nanofab-process and ultra-low temperature measurement (AFM, e-beam lithography, etching, evaporation, dilution refrigerator)
-- Deep generative models (GAN etc.) for generating synthetic data focusing on virtual human (AI human) and materials informatics
-- MLOps: general data analysis, feature engineering and parameter tuning of ML models on Kaggle
-- Development of python based backend API
+- Experimental condensed matter physics focusing on quantum materials (8+ years)
+- Quantum physics / Materials science; semiconductor-nanofab-process and ultra-low temperature measurement (AFM, e-beam lithography, etching, evaporation, dilution refrigerator) (8+ years)
+- Deep generative models (GAN etc.) for generating synthetic data focusing on virtual human (AI human) and materials informatics (1+ year)
+- MLOps: general data analysis, feature engineering and parameter tuning of ML models on Kaggle (2+ years)
+- Development of python based backend API (1+ year)
 - Analysis of financial time series data for auto-trading cryptocurrencies
 - Project management on R&D
 
-### computer related
+### Computer related
 
-- Languages: Python(Advanced, 3+years), C/C++(basic), Go(basic), Rust(basic), shell script (basic)
+- Languages: Python(Advanced, 3+years), C/C++(basic), Go(basic), shell script (basic)
 - Backend Framework: FastAPI, Flask
 - Hardware control : LabRAD
-- Pipeline : Gokart, Luigi, MLflow
+- Pipelines : Gokart, Luigi, MLflow
 - Cloud: Azure, GCP
 - Tools: Git, Docker
 - Kaggle Competition Expert, Atcoder [green]
@@ -65,3 +65,10 @@ CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).
   from California NanoSystems Institute, University of California, Santa Barbara, March 2018
 - **8th JSPS Ikushi Prize** (第８回 日本学術振興会育志賞) from Japan Society for the Promotion of Science (JSPS), March 2018
 - **Dean’s Award** (工学系研究科長賞) from Graduate School of Engineering, The University of Tokyo, March 2018
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/yu-saito-03080088/)
+- [GitHub](https://github.com/yseeker)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=M3gyCrUAAAAJ)
+- [Kaggle](https://www.kaggle.com/Yseeker)
