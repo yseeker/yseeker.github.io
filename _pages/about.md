@@ -11,7 +11,8 @@ redirect_from:
 
 I received the B.Eng., M.Eng. and Ph.D. in Applied Physics from the University of Tokyo under the supervision of Prof. Yoshihiro Iwasa, where I worked on electric-field-induced 2D superconductivity. After a short-period postdoc in Molecular Informatics team at RIKEN AIP, I joined Prof. Andrea Young’s group at the University of California, Santa Barbara in October 2018 as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/resources/funding/elings-prize/fellows), where I was working on the research of quantum phenomena in twisted bilayer graphene. After the postdoc, I joined DATAGRID as a Senior Engineer, where I am working on deep generative models.
 
-CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).
+CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).<br>
+Japanese page is [here](https://www.yusaito.com/blog/about/).
 
 ## Work Experience
 
