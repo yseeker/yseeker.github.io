@@ -43,7 +43,7 @@ Japanese page is [here](https://www.yusaito.com/blog/about/).
 - Experimental condensed matter physics focusing on quantum materials (8+ years)
 - Quantum physics / Materials science; semiconductor-nanofab-process and ultra-low temperature measurement (AFM, e-beam lithography, etching, evaporation, dilution refrigerator) (8+ years)
 - Deep generative models (GAN etc.) for generating synthetic data focusing on virtual human (AI human) and materials informatics (1+ year)
-- MLOps: general data analysis, feature engineering and parameter tuning of ML models on Kaggle (2+ years)
+- MLOps : data collections, preprocessing, feature engineering and constructing experiment pipelines and building autopmatic deploying system (1+ year)
 - Development of python based backend API (1+ year)
 - Analysis of financial time series data for auto-trading cryptocurrencies
 - Project management on R&D
