@@ -3,8 +3,10 @@ code[class*="language-"] {
   color: #d4d4d4;
   font-size: 13px;
   text-shadow: none;
-  font-family: Menlo, Monaco, Consolas, "Andale Mono", "Ubuntu Mono",
-    "Courier New", monospace;
+  /* font-family: Menlo, Monaco, Consolas, "Andale Mono", "Ubuntu Mono",
+    "Courier New", monospace; */
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   direction: ltr;
   text-align: left;
   white-space: pre;
