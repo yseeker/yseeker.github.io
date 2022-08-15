@@ -19,11 +19,17 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 ## Work Experience
 
 - **Senior Engineer at DATAGRID Inc.** (Kyoto, Japan)<br>
-  October 2021 – present
+  October 2021 – present<br>
+  - R&D and product development based on deep generative models focusing on virtual-try-on ([kitemiru]()) and materials informatics/chemoinformatics
+  - Constructing machine learning experiment pipelines
+  - Creating and improving MVP for virtual try-on and chemoinformatics.
+  - Development of ML backend API through GCE, Luigi, Gokart, Pytorch, FastAPI, Redis
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
-  October 2018 – September 2021
+  October 2018 – September 2021<br>
+  - Experimental research on quantum transport of twisted bilayer graphene.
 - **Postdoctoral Researcher at RIKEN** (Tokyo, Japan)<br>
   April 2018 – September 2018<br>
+  - Deep-learning-based automated classification of 2D atomic crystals
 
 ## Education
 
