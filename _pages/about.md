@@ -9,10 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng., M.Eng. and Ph.D. in Applied Physics from the University of Tokyo under the supervision of Prof. Yoshihiro Iwasa, where I worked on electric-field-induced 2D superconductivity. After a short-period postdoc in Molecular Informatics team at RIKEN AIP, I joined Prof. Andrea Young’s group at the University of California, Santa Barbara in October 2018 as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/resources/funding/elings-prize/fellows), where I was working on the research of quantum phenomena in twisted bilayer graphene. After the postdoc, I joined DATAGRID as a Senior Engineer, where I am working on deep generative models.
+I am a software engineer with broad experience from basic research of quantum physics and materials science to machine learning product development.
+
+I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of low-temperature physics (e.g. superconductivity) in 2D materials. After Ph.D., through a short-period postdoc at the molecular informatics team at [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/index.html), I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on quantum phenomena in twisted bilayer graphene. After the postdoc, I joined DATAGRID and am mainly working on applications/products of deep generative models focusing on virtual humans, virtual-try-on and chemoinformatics.
 
 CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).<br>
-Japanese page is [here](https://www.yusaito.com/blog/about/).
+LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 
 ## Work Experience
 
