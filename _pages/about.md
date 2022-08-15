@@ -11,7 +11,7 @@ redirect_from:
 
 I am a software engineer with broad experience from basic research of quantum physics and materials science to machine learning product development.
 
-I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of low-temperature physics (e.g. superconductivity) in 2D materials ([Science 2015](https://science.sciencemag.org/content/350/6259/409), [Nature Physics 2016](https://www.nature.com/articles/nphys3580)). After Ph.D., through a short-period postdoc at the molecular informatics team at [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/index.html), I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on quantum phenomena in twisted bilayer graphene ([Nature Physics 2020](https://www.nature.com/articles/s41567-020-0928-3), [Nature Physics 2021](https://www.nature.com/articles/s41567-020-01129-4), [Nature 2021](https://www.nature.com/articles/s41586-021-03409-2)). After the postdoc, I joined DATAGRID and am mainly working on applications/products of deep generative models focusing on virtual humans, virtual-try-on and chemoinformatics.
+I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of low-temperature physics (e.g. superconductivity) in 2D materials ([Science 2015](https://science.sciencemag.org/content/350/6259/409), [Nature Physics 2016](https://www.nature.com/articles/nphys3580)). After Ph.D., through a short-period postdoc at the molecular informatics team at RIKEN AIP, I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on quantum phenomena in twisted bilayer graphene ([Nature Physics 2020](https://www.nature.com/articles/s41567-020-0928-3), [Nature Physics 2021](https://www.nature.com/articles/s41567-020-01129-4), [Nature 2021](https://www.nature.com/articles/s41586-021-03409-2)). After the postdoc, I joined DATAGRID and am mainly working on development of applications/products based on deep generative models focusing on virtual humans, virtual-try-on and chemoinformatics.
 
 CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).<br>
 LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
@@ -29,7 +29,7 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 
 - **Doctor of Philosophy (Ph.D.) in Applied Physics**, March 2018<br>
   The University of Tokyo, Japan<br>
-  Thesis: Study on Electric-Field-Induced 2D Superconductivity [PDF](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf)<br>
+  Thesis: [Study on Electric-Field-Induced 2D Superconductivity](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf)<br>
   Advisor: Prof. Yoshihiro Iwasa
   <br>
 - **Master of Engineering**, March 2015<br>
