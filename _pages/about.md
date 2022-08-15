@@ -29,7 +29,7 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 
 - **Doctor of Philosophy (Ph.D.) in Applied Physics**, March 2018<br>
   The University of Tokyo, Japan<br>
-  Thesis: Study on Electric-Field-Induced 2D Superconductivity<br>
+  Thesis: Study on Electric-Field-Induced 2D Superconductivity [PDF](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf)<br>
   Advisor: Prof. Yoshihiro Iwasa
   <br>
 - **Master of Engineering**, March 2015<br>
