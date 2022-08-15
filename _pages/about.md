@@ -20,9 +20,8 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 
 - **Senior Engineer at DATAGRID Inc.** (Kyoto, Japan)<br>
   October 2021 – present
-  - R&D and product development based on deep generative models focusing on virtual-try-on ([kitemiru]()) and materials informatics/chemoinformatics
+  - R&D and product development based on deep generative models focusing on virtual-try-on ([kitemiru](https://kitemiru.tech/)) and materials informatics/chemoinformatics
   - Constructing machine learning experiment pipelines
-  - Creating and improving MVP for virtual try-on and chemoinformatics.
   - Development of ML backend API through GCE, Luigi, Gokart, Pytorch, FastAPI, Redis
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
   October 2018 – September 2021
@@ -40,10 +39,10 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
   The University of Tokyo, Japan<br>
   Thesis: [Study on Electric-Field-Induced 2D Superconductivity](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf)<br>
   Advisor: Prof. Yoshihiro Iwasa
-  - Metallic ground state in an ion-gated two-dimensional superconductor
-  - Superconductivity protected by spin-valley locking in ion-gated MoS<sub>2
-  -
-  - <br>
+  - Metallic ground state in an ion-gated two-dimensional superconductor [_Science_ **350**, 409-413 (2015).](https://science.sciencemag.org/content/350/6259/409)
+  - Superconductivity protected by spin-valley locking in ion-gated MoS<sub>2 [_Nature Physics_ **12**, 144-149 (2016).](https://www.nature.com/articles/nphys3580)
+  - Nonreciprocal charge transport in noncentrosymmetric superconductors [_Science Advances_ **3**, e1602390 (2017).](https://advances.sciencemag.org/content/3/4/e1602390)
+  - Quantum phase transitions in highly crystalline two-dimensional superconductors [_Nature Communications_ **9**, 778 (2018).](https://www.nature.com/articles/s41467-018-03275-z)
 - **Master of Engineering**, March 2015<br>
   The University of Tokyo, Japan
   <br>
