@@ -19,16 +19,19 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 ## Work Experience
 
 - **Senior Engineer at DATAGRID Inc.** (Kyoto, Japan)<br>
-  October 2021 – present<br>
+  October 2021 – present
   - R&D and product development based on deep generative models focusing on virtual-try-on ([kitemiru]()) and materials informatics/chemoinformatics
   - Constructing machine learning experiment pipelines
   - Creating and improving MVP for virtual try-on and chemoinformatics.
   - Development of ML backend API through GCE, Luigi, Gokart, Pytorch, FastAPI, Redis
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
-  October 2018 – September 2021<br>
+  October 2018 – September 2021
   - Experimental research on quantum transport of twisted bilayer graphene.
+    - Detailed investigation of twist angle dependece of superconductivity in twisted bilayer graphene. [_Nature Physics_ **16**, 926-930 (2020).](https://www.nature.com/articles/s41567-020-0928-3)
+    - Discovery of Chern insulators in magnetic field in twisted bilayer graphene. [_Nature Physics_ **17**, 478-481 (2021).](https://www.nature.com/articles/s41567-020-01129-4)
+    - Discovery of isospin Pomeranchuk effect in twisted bilayer graphehe. [_Nature_ **592**, 220-224 (2021).](https://www.nature.com/articles/s41586-021-03409-2)
 - **Postdoctoral Researcher at RIKEN** (Tokyo, Japan)<br>
-  April 2018 – September 2018<br>
+  April 2018 – September 2018
   - Deep-learning-based automated classification of 2D atomic crystals
 
 ## Education
@@ -37,7 +40,10 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
   The University of Tokyo, Japan<br>
   Thesis: [Study on Electric-Field-Induced 2D Superconductivity](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf)<br>
   Advisor: Prof. Yoshihiro Iwasa
-  <br>
+  - Metallic ground state in an ion-gated two-dimensional superconductor
+  - Superconductivity protected by spin-valley locking in ion-gated MoS<sub>2
+  -
+  - <br>
 - **Master of Engineering**, March 2015<br>
   The University of Tokyo, Japan
   <br>
