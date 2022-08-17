@@ -38,10 +38,11 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 - **Doctor of Philosophy (Ph.D.) in Applied Physics**, March 2018<br>
   The University of Tokyo, Japan<br>
   Thesis: [Study on Electric-Field-Induced 2D Superconductivity](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf)<br>
-  Advisor: Prof. Yoshihiro Iwasa
-  - Metallic ground state in an ion-gated two-dimensional superconductor [_Science_ **350**, 409-413 (2015).](https://science.sciencemag.org/content/350/6259/409)
-  - Superconductivity protected by spin-valley locking in ion-gated MoS2 [_Nature Physics_ **12**, 144-149 (2016).](https://www.nature.com/articles/nphys3580)
-  - Nonreciprocal charge transport in noncentrosymmetric superconductors [_Science Advances_ **3**, e1602390 (2017).](https://advances.sciencemag.org/content/3/4/e1602390)
+  Advisor: Prof. Yoshihiro Iwasa<br>
+  Ph.D thesis based on following papers:
+  - "Metallic ground state in an ion-gated two-dimensional superconductor" [_Science_ **350**, 409-413 (2015).](https://science.sciencemag.org/content/350/6259/409)
+  - "Superconductivity protected by spin-valley locking in ion-gated MoS2" [_Nature Physics_ **12**, 144-149 (2016).](https://www.nature.com/articles/nphys3580)
+  - "Nonreciprocal charge transport in noncentrosymmetric superconductors" [_Science Advances_ **3**, e1602390 (2017).](https://advances.sciencemag.org/content/3/4/e1602390)
   - Quantum phase transitions in highly crystalline two-dimensional superconductors [_Nature Communications_ **9**, 778 (2018).](https://www.nature.com/articles/s41467-018-03275-z)
 - **Master of Engineering**, March 2015<br>
   The University of Tokyo, Japan
