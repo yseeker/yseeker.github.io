@@ -11,7 +11,7 @@ redirect_from:
 
 I am a software engineer with broad experience from basic research of quantum physics and materials science to machine learning product development.
 
-I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of low-temperature physics (e.g. superconductivity) in 2D materials ([Science 2015](https://science.sciencemag.org/content/350/6259/409), [Nature Physics 2016](https://www.nature.com/articles/nphys3580), [Nature Communications 2018](https://www.nature.com/articles/s41467-018-03275-z)). After Ph.D., through a short-period postdoc at the molecular informatics team at RIKEN AIP, I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on quantum phenomena in twisted bilayer graphene ([Nature Physics 2020](https://www.nature.com/articles/s41567-020-0928-3), [Nature Physics 2021](https://www.nature.com/articles/s41567-020-01129-4), [Nature 2021](https://www.nature.com/articles/s41586-021-03409-2)). After the postdoc, I joined DATAGRID and am mainly working on development of applications/products based on deep generative models focusing on virtual humans, virtual-try-on and chemoinformatics.
+I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of electrical transport and superconductivity in 2D materials ([Science 2015](https://science.sciencemag.org/content/350/6259/409), [Nature Physics 2016](https://www.nature.com/articles/nphys3580), [Nature Communications 2018](https://www.nature.com/articles/s41467-018-03275-z)). After Ph.D., through a short-period postdoc at the molecular informatics team at RIKEN AIP, I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on strongly corrrelated phenomena in twisted bilayer graphene ([Nature Physics 2020](https://www.nature.com/articles/s41567-020-0928-3), [Nature Physics 2021](https://www.nature.com/articles/s41567-020-01129-4), [Nature 2021](https://www.nature.com/articles/s41586-021-03409-2)). After the postdoc, I joined DATAGRID and am mainly working on development of products based on deep learning, especially deep generative models, focusing on virtual humans, virtual-try-on [kitemiru](https://kitemiru.tech/) and materials/chemoinformatics.
 
 CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).<br>
 LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
@@ -26,12 +26,12 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
   October 2018 – September 2021
   - Experimental research on quantum transport of twisted bilayer graphene.
-    - Detailed investigation of twist angle dependece of superconductivity in twisted bilayer graphene. [_Nature Physics_ **16**, 926-930 (2020).](https://www.nature.com/articles/s41567-020-0928-3)
-    - Discovery of Chern insulators in magnetic field in twisted bilayer graphene. [_Nature Physics_ **17**, 478-481 (2021).](https://www.nature.com/articles/s41567-020-01129-4)
-    - Discovery of isospin Pomeranchuk effect in twisted bilayer graphehe. [_Nature_ **592**, 220-224 (2021).](https://www.nature.com/articles/s41586-021-03409-2)
+    - Detailed investigation of twist angle dependece of superconductivity in twisted bilayer graphene. [_Nature Physics_ **16**, 926-930 (2020)](https://www.nature.com/articles/s41567-020-0928-3)
+    - Discovery of Chern insulators in magnetic field in twisted bilayer graphene. [_Nature Physics_ **17**, 478-481 (2021)](https://www.nature.com/articles/s41567-020-01129-4)
+    - Discovery of isospin Pomeranchuk effect in twisted bilayer graphehe. [_Nature_ **592**, 220-224 (2021)](https://www.nature.com/articles/s41586-021-03409-2)
 - **Postdoctoral Researcher at RIKEN** (Tokyo, Japan)<br>
   April 2018 – September 2018
-  - Deep-learning-based automated classification of 2D atomic crystals
+  - Deep-learning-based automated classification of 2D atomic crystals. [_npj Computational Materials_ **5**, 124 (2019)](https://www.nature.com/articles/s41524-019-0262-4)
 
 ## Education
 
