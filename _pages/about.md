@@ -11,7 +11,7 @@ redirect_from:
 
 I am a software engineer with broad experience from basic research of quantum physics and materials science to machine learning product development.
 
-I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of low-temperature physics (e.g. superconductivity) in 2D materials ([Science 2015](https://science.sciencemag.org/content/350/6259/409), [Nature Physics 2016](https://www.nature.com/articles/nphys3580)). After Ph.D., through a short-period postdoc at the molecular informatics team at RIKEN AIP, I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on quantum phenomena in twisted bilayer graphene ([Nature Physics 2020](https://www.nature.com/articles/s41567-020-0928-3), [Nature Physics 2021](https://www.nature.com/articles/s41567-020-01129-4), [Nature 2021](https://www.nature.com/articles/s41586-021-03409-2)). After the postdoc, I joined DATAGRID and am mainly working on development of applications/products based on deep generative models focusing on virtual humans, virtual-try-on and chemoinformatics.
+I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of low-temperature physics (e.g. superconductivity) in 2D materials ([Science 2015](https://science.sciencemag.org/content/350/6259/409), [Nature Physics 2016](https://www.nature.com/articles/nphys3580), [Nature Communications 2018](https://www.nature.com/articles/s41467-018-03275-z)). After Ph.D., through a short-period postdoc at the molecular informatics team at RIKEN AIP, I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on quantum phenomena in twisted bilayer graphene ([Nature Physics 2020](https://www.nature.com/articles/s41567-020-0928-3), [Nature Physics 2021](https://www.nature.com/articles/s41567-020-01129-4), [Nature 2021](https://www.nature.com/articles/s41586-021-03409-2)). After the postdoc, I joined DATAGRID and am mainly working on development of applications/products based on deep generative models focusing on virtual humans, virtual-try-on and chemoinformatics.
 
 CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).<br>
 LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
@@ -56,11 +56,11 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 
 - Experimental condensed matter physics focusing on quantum materials (8+ years)
 - Quantum physics / Materials science; semiconductor-nanofab-process and ultra-low temperature measurement (AFM, e-beam lithography, etching, evaporation, dilution refrigerator) (8+ years)
-- Deep generative models (GAN etc.) for generating synthetic data focusing on virtual human (AI human) and materials informatics (1+ year)
+- Deep generative models (GAN etc.) for generating synthetic data focusing on virtual human (AI human)/virtual try-on and materials informatics (1+ year)
 - MLOps : data collections, preprocessing, feature engineering and constructing experiment pipelines and building autopmatic deploying system (1+ year)
-- Development of python based backend API (1+ year)
+- Development of backend API (1+ year)
 - Analysis of financial time series data for auto-trading cryptocurrencies
-- Project management on R&D
+- Project management on R&D in various fields
 
 ### Computer related
 
