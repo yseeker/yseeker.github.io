@@ -57,13 +57,11 @@ LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
 
 ### Speciality
 
-- Experimental condensed matter physics focusing on quantum materials (8+ years)
-- Quantum physics / Materials science; semiconductor-nanofab-process and ultra-low temperature measurement (AFM, e-beam lithography, etching, evaporation, dilution refrigerator) (8+ years)
-- Deep generative models (GAN etc.) for generating synthetic data focusing on virtual human (AI human)/virtual try-on and materials informatics (1+ year)
+- Research and maganement of experimental condensed matter physics/quantum materials focusing on graphene and 2D materials; semiconductor-nanofab-process and ultra-low temperature measurement (AFM, e-beam lithography, etching, evaporation, dilution refrigerator) (8+ years)
+- R&D of deep generative models (GAN etc.) for generating synthetic data focusing on virtual human (AI human)/virtual try-on and materials informatics (1+ year)
 - MLOps : data collections, preprocessing, feature engineering and constructing experiment pipelines and building autopmatic deploying system (1+ year)
-- Development of backend API (1+ year)
+- Development of ML backend API (1+ year)
 - Analysis of financial time series data for auto-trading cryptocurrencies
-- Project management on R&D in various fields
 
 ### Computer related
 
