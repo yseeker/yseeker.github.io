@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineer with broad experience from experimental research of quantum physics and materials science to machine learning product development/management.
+I am a software engineer with broad experience ranging from experimental research of quantum physics and materials science to machine learning product development/management.
 
 I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of electrical transport and superconductivity in 2D materials ([Science 2015](https://science.sciencemag.org/content/350/6259/409), [Nature Physics 2016](https://www.nature.com/articles/nphys3580), [Nature Communications 2018](https://www.nature.com/articles/s41467-018-03275-z)). After Ph.D., through a short-period postdoc at the molecular informatics team at RIKEN AIP, I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on strongly corrrelated phenomena in twisted bilayer graphene ([Nature Physics 2020](https://www.nature.com/articles/s41567-020-0928-3), [Nature Physics 2021](https://www.nature.com/articles/s41567-020-01129-4), [Nature 2021](https://www.nature.com/articles/s41586-021-03409-2)). After the postdoc, I joined DATAGRID and am mainly working on development of products based on deep learning, especially deep generative models, focusing on virtual humans, virtual-try-on ([kitemiru](https://kitemiru.tech/)) and chemoinformatics/drug discovery.
 
