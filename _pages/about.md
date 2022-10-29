@@ -13,14 +13,13 @@ I am a software engineer with broad experience ranging from experimental researc
 
 I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of electrical transport and superconductivity in 2D materials. After Ph.D., through a short-period postdoc at the molecular informatics team at RIKEN AIP, I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on strongly corrrelated phenomena in twisted bilayer graphene. After the postdoc, I joined DATAGRID and am mainly working on development of products based on deep learning, especially deep generative models, focusing on virtual humans, virtual-try-on ([kitemiru](https://kitemiru.tech/)) and chemoinformatics/drug discovery.
 
-CV is available [here](https://www.yusaito.com/files/yusaito_CV.pdf).<br>
-LinkedIn is [here](https://www.linkedin.com/in/yu-saito-03080088/).
+Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70c3be1eef944da8e2e578205ac263b).
 
 ## Work Experience
 
 - **Senior Engineer at DATAGRID Inc.** (Kyoto, Japan)<br>
   October 2021 – present
-  - R&D of deep generative models and machine learning product management
+  - Machine learning product development and management
     - virtual-try-on ([kitemiru](https://kitemiru.tech/))
     - chemoinformatics/drug discovery
   - Data Engineering
