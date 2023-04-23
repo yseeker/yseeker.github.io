@@ -17,8 +17,14 @@ Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70
 
 ## Work Experience
 
-- **Senior Engineer at DATAGRID Inc.** (Kyoto, Japan)<br>
-  October 2021 – present
+- **DATAGRID Inc.** (Kyoto, Japan)<br>
+  **Lead Engineer** April 2023 – present
+  - Setting up and managing product development team including frontend, backend and ML engineer
+  - Building up generative AI-based SaaS products from scratch 
+  - Development of machine learning backend
+  - Product design and strategy formulation
+  - User interviews and hypothesis testing
+  **Senior Engineer** October 2021 – March 2023
   - Machine learning product development and management
     - virtual-try-on ([kitemiru](https://kitemiru.tech/))
     - chemoinformatics/drug discovery
