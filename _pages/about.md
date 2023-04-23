@@ -18,19 +18,19 @@ Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70
 ## Work Experience
 
 - **DATAGRID Inc.** (Kyoto, Japan)<br>
-  **Lead Engineer** April 2023 – present
-  - Setting up and managing product development team including frontend, backend and ML engineer
-  - Building up generative AI-based SaaS products from scratch 
-  - Development of machine learning backend
-  - Product design and strategy formulation
-  - User interviews and hypothesis testing
-  **Senior Engineer** October 2021 – March 2023
-  - Machine learning product development and management
-    - virtual-try-on ([kitemiru](https://kitemiru.tech/))
-    - chemoinformatics/drug discovery
-  - Data Engineering
-  - Constructing machine learning experiment pipelines
-  - Development of ML backend API through GCE, Luigi, Gokart, Pytorch, FastAPI, Redis etc.
+  - **Lead Engineer**, April 2023 – present
+    - Setting up and managing product development team including frontend, backend and ML engineers
+    - Building up generative AI-based SaaS products from scratch 
+    - Development of machine learning backend
+    - Product design and strategy formulation
+    - User interviews and hypothesis testing
+  - **Senior Engineer**, October 2021 – March 2023
+    - Machine learning product development and management
+      - virtual-try-on ([kitemiru](https://kitemiru.tech/))
+      - chemoinformatics/drug discovery
+    - Data Engineering
+    - Constructing machine learning experiment pipelines
+    - Development of ML backend API through GCE, Luigi, Gokart, Pytorch, FastAPI, Redis etc.
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
   October 2018 – September 2021
   - Experimental research on quantum transport of twisted bilayer graphene.
