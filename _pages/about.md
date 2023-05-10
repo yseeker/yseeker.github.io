@@ -47,13 +47,13 @@ Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70
 
 - **Doctor of Philosophy (Ph.D.) in Applied Physics**, March 2018<br>
   The University of Tokyo, Japan<br>
-  Thesis: [Study on Electric-Field-Induced 2D Superconductivity](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf)<br>
-  Advisor: Prof. Yoshihiro Iwasa<br>
-  Ph.D thesis based on following papers:
-  - "Metallic ground state in an ion-gated two-dimensional superconductor" [_Science_ **350**, 409-413 (2015).](https://science.sciencemag.org/content/350/6259/409)
-  - "Superconductivity protected by spin-valley locking in ion-gated MoS2" [_Nature Physics_ **12**, 144-149 (2016).](https://www.nature.com/articles/nphys3580)
-  - "Nonreciprocal charge transport in noncentrosymmetric superconductors" [_Science Advances_ **3**, e1602390 (2017).](https://advances.sciencemag.org/content/3/4/e1602390)
-  - "Quantum phase transitions in highly crystalline two-dimensional superconductors" [_Nature Communications_ **9**, 778 (2018).](https://www.nature.com/articles/s41467-018-03275-z)
+  - Thesis: [Study on Electric-Field-Induced 2D Superconductivity](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf)<br>
+  - Advisor: Prof. Yoshihiro Iwasa<br>
+  - Ph.D thesis based on following papers:
+    - "Metallic ground state in an ion-gated two-dimensional superconductor" [_Science_ **350**, 409-413 (2015).](https://science.sciencemag.org/content/350/6259/409)
+    - "Superconductivity protected by spin-valley locking in ion-gated MoS2" [_Nature Physics_ **12**, 144-149 (2016).](https://www.nature.com/articles/nphys3580)
+    - "Nonreciprocal charge transport in noncentrosymmetric superconductors" [_Science Advances_ **3**, e1602390 (2017).](https://advances.sciencemag.org/content/3/4/e1602390)
+    - "Quantum phase transitions in highly crystalline two-dimensional superconductors" [_Nature Communications_ **9**, 778 (2018).](https://www.nature.com/articles/s41467-018-03275-z)
 - **Master of Engineering**, March 2015<br>
   The University of Tokyo, Japan
   <br>
@@ -62,23 +62,24 @@ Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70
 
 ## Skills
 
-### Speciality
+### Areas of Expertise
 
-- Research and maganement of experimental condensed matter physics/quantum materials focusing on graphene and 2D materials; semiconductor-nanofab-process and ultra-low temperature measurement (AFM, e-beam lithography, etching, evaporation, dilution refrigerator) (8+ years)
-- R&D of deep generative models (GAN etc.) for generating synthetic data focusing on virtual human (AI human)/virtual try-on and materials informatics (1+ year)
-- MLOps : data collections, preprocessing, feature engineering and constructing experiment pipelines and building autopmatic deploying system (1+ year)
-- Development of ML backend API (1+ year)
-- Analysis of financial time series data for auto-trading cryptocurrencies
+- Overall design and team management for developing machine learning (ML) products leveraging generative AI for synthetic data generation in fields such as visual inspection and drug discovery.
+- Design and implementation of ML backend APIs using FastAPI.
+- Comprehensive data analysis, data engineering, and feature engineering of ML models.
+- Experimental ressearch in the field of quantum physics and materials science, including nanofabrication and ultra-low temperature measurements (AFM, e-beam lithography, evaporation, dilution refrigerator).
+- Effective project management in both Physics and ML domains, ensuring timely delivery and high-quality outcomes.
 
-### Computer related
 
-- Languages: Python(Advanced, 3+years), C/C++(basic), Go(basic), shell script (basic)
-- Backend Framework: FastAPI, Flask
-- Hardware control : LabRAD
-- Pipelines : Gokart, Luigi, MLflow
-- Cloud: Azure, GCP
+### Technical Proficiencies
+
+- Programming Languages: Python (Advanced, 5+ years), C/C++
+- Backend Frameworks: FastAPI
+- Hardware Control: LabRAD
+- Data Pipelines: Gokart, Luigi, MLflow
+- Cloud Platforms: Azure, GCP
 - Tools: Git, Docker
-- Kaggle Competition Expert, Atcoder [green]
+- Competitive Coding: Kaggle Competition Expert
 
 ## Selected Honors and Awards
 
