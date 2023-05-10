@@ -9,9 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineer with broad experience ranging from experimental research of quantum physics and materials science to machine learning product development/management.
+I am an experinced software engineer with a diverse background, ranging from academic research in quantum physics and materials science to the development and management of cutting-edge generative AI products within the industry.
 
-I earned Ph.D. in the field of Applied Physics at the University of Tokyo, focusing on the experimental study of electrical transport and superconductivity in 2D materials. After Ph.D., through a short-period postdoc at the molecular informatics team at RIKEN AIP, I joined Andrea Young's group at the University of California, Santa Barbara as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships), where I was working on strongly corrrelated phenomena in twisted bilayer graphene. After the postdoc, I joined DATAGRID and am mainly working on development of products based on deep learning, especially deep generative models, focusing on virtual humans, virtual-try-on ([kitemiru](https://kitemiru.tech/)) and chemoinformatics/drug discovery.
+During Ph.D. at the University of Tokyo, I focused on the experimental study of low-temperature physics, specifically superconductivity in ionic-liquid gated 2D materials. After completing my doctorate, I joined RIKEN AIP's molecular informatics team for a brief postdoctoral period. I later joined Prof. [Andrea Young's group](https://www.afylab.com/) as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships) at University of California Santa Barbara, where I studied quantum transport properties in twisted bilayer graphene.
+
+Currently, as a Lead Engineer at DATAGRID, I play a crucial role in the development and multiple-team management of various generative AI-based products, such as visual inspection AI, virtual try-on, and drug discovery/chemoinformatics. My diverse background in both natural science and software engineering allows me to effectively navigate the challenges and opportunities in these interdisciplinary fields.
 
 Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70c3be1eef944da8e2e578205ac263b).
 
