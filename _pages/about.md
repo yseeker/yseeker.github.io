@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an experinced software engineer with a diverse background, ranging from academic research in quantum physics and materials science to the development and management of cutting-edge generative AI products within the industry.
+I am an experienced software engineer with a diverse background, ranging from academic research in quantum physics and materials science to the development and management of cutting-edge generative AI products within the industry.
 
-During Ph.D. at the University of Tokyo, I focused on the experimental study of low-temperature physics, specifically superconductivity in ionic-liquid gated 2D materials. After completing my doctorate, I joined RIKEN AIP's molecular informatics team for a brief postdoctoral period. I later joined Prof. [Andrea Young's group](https://www.afylab.com/) as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships) at University of California Santa Barbara, where I studied quantum transport properties in twisted bilayer graphene.
+During Ph.D. at the University of Tokyo, I focused on the experimental study of low-temperature physics, specifically [superconductivity in ionic-liquid gated 2D materials](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf). After completing my doctorate, I joined RIKEN AIP's molecular informatics team for a brief postdoctoral period. I later joined Prof. [Andrea Young's group](https://www.afylab.com/) as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships) at University of California Santa Barbara, where I studied quantum transport properties in twisted bilayer graphene. My Ph.D. and postdoctoral research made significant contributions to the comprehension of transport properties in various 2D quantum materials, with key findings published as a lead author in multiple high-impact scientific journals including Science and Nature, Nature Physics.
 
-Currently, as a Lead Engineer at DATAGRID, I play a crucial role in the development and multiple-team management of various generative AI-based products, such as visual inspection AI, virtual try-on, and drug discovery/chemoinformatics. My diverse background in both natural science and software engineering allows me to effectively navigate the challenges and opportunities in these interdisciplinary fields.
+Currently, as a Lead Engineer at [DATAGRID](https://datagrid.co.jp/), I play a crucial role in the development and multiple-team management of various generative AI-based SaaS products, such as [Anomaly Generator](https://anomaly-generator.site/) for generating synthetic images, [kitemiru](https://kitemiru.tech/) for virtual try-on, and drug discovery/chemoinformatics AI service. My diverse background in both natural science and software engineering allows me to effectively navigate the challenges and opportunities in these interdisciplinary fields.
 
 Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70c3be1eef944da8e2e578205ac263b).
 
@@ -21,18 +21,14 @@ Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70
 
 - **DATAGRID Inc.** (Kyoto, Japan)<br>
   - **Lead Engineer**, April 2023 – present
-    - Setting up and managing product development team including frontend, backend and ML engineers
-    - Building up generative AI-based SaaS products from scratch 
-    - Development of machine learning backend
-    - Product design and strategy formulation
-    - User interviews and hypothesis testing
+    - Built multiple generative AI-based SaaS products from scratch, overseeing various aspects including development, product design and strategy formulation.
+    - Established and managed cross-functional product development teams, including frontend, backend, and ML engineers, to drive the successful development and launch of generative AI-based products.
+    - Conducted user interviews and hypothesis testing to ensure product alignment with market needs
+    - Implemented ML backend APIs using Pytorch, FastAPI, Luigi, Gokart and Redis, ensuring seamless integration with frontend applications and robust system performance.
   - **Senior Engineer**, October 2021 – March 2023
-    - Machine learning product development and management
-      - virtual-try-on ([kitemiru](https://kitemiru.tech/))
-      - chemoinformatics/drug discovery
-    - Data Engineering
-    - Constructing machine learning experiment pipelines
-    - Development of ML backend API through GCE, Luigi, Gokart, Pytorch, FastAPI, Redis etc.
+    - Implemented ML backend APIs using Pytorch, FastAPI, Luigi, Gokart, and Redis on GCP, ensuring robust system performance.
+    - Led R&D and product development efforts focusing on materials informatics and chemoinformatics, delivering generative AI-powered solutions.
+    - Constructed and optimized machine learning experiment pipelines, leading to more efficient data engineering and model-improvement-cycle.
 - **Elings Prize Fellow at University of California, Santa Barbara** (CA, USA)<br>
   October 2018 – September 2021
   - Experimental research on quantum transport of twisted bilayer graphene.
