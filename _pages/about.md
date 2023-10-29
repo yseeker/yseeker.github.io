@@ -13,14 +13,17 @@ I am an experienced software engineer with a diverse background, ranging from ac
 
 During Ph.D. at the University of Tokyo, I focused on the experimental study of low-temperature physics, specifically [superconductivity in ionic-liquid gated 2D materials](https://repository.dl.itc.u-tokyo.ac.jp/record/52951/files/A34770.pdf). After completing my doctorate, I joined RIKEN AIP's molecular informatics team for a brief postdoctoral period. I later joined Prof. [Andrea Young's group](https://www.afylab.com/) as an [Elings Prize Fellow](https://www.cnsi.ucsb.edu/programs/elings-fellowships) at University of California Santa Barbara, where I studied quantum transport properties in twisted bilayer graphene. My Ph.D. and postdoctoral research made significant contributions to the comprehension of transport properties in various 2D quantum materials, with key findings published as a lead author in multiple high-impact scientific journals including Science and Nature, Nature Physics.
 
-Currently, as a Lead Engineer at [DATAGRID](https://datagrid.co.jp/), I play a crucial role in the development and multiple-team management of various generative AI-based SaaS products, such as [Anomaly Generator](https://anomaly-generator.site/) for generating synthetic images, [kitemiru](https://kitemiru.tech/) for virtual try-on, and drug discovery/chemoinformatics AI service. My diverse background in both natural science and software engineering allows me to effectively navigate the challenges and opportunities in these interdisciplinary fields.
+Currently, as CTO at [DATAGRID](https://datagrid.co.jp/), I play a crucial role in the development and multiple-team management of various generative AI-based SaaS products, such as [Anomaly Generator](https://anomaly-generator.site/) for generating synthetic images, [kitemiru](https://kitemiru.tech/) for virtual try-on, and drug discovery/chemoinformatics AI service. My diverse background in both natural science and software engineering allows me to effectively navigate the challenges and opportunities in these interdisciplinary fields.
 
 Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70c3be1eef944da8e2e578205ac263b).
 
 ## Work Experience
 
 - **DATAGRID Inc.** (Kyoto, Japan)<br>
-  - **Lead Engineer**, April 2023 – present
+  - **Chief Technology Officer (CTO)**, October 2023 – present
+    - Built multiple generative AI-based SaaS products from scratch, overseeing various aspects including development, product design and strategy formulation.
+    - Established and managed cross-functional product development teams, including frontend, backend, and ML engineers, to drive the successful development and launch of generative AI-based products.
+  - **Lead Engineer**, April 2023 – September 2023
     - Built multiple generative AI-based SaaS products from scratch, overseeing various aspects including development, product design and strategy formulation.
     - Established and managed cross-functional product development teams, including frontend, backend, and ML engineers, to drive the successful development and launch of generative AI-based products.
     - Conducted user interviews and hypothesis testing to ensure product alignment with market needs
