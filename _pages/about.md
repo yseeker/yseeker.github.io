@@ -87,7 +87,6 @@ Japanese page is [here](https://principled-devourer-bf7.notion.site/About-me-b70
 - **Elings Prize Fellowship in Science 2018**
   from California NanoSystems Institute, University of California, Santa Barbara, March 2018
 - **8th JSPS Ikushi Prize** (第８回 日本学術振興会育志賞) from Japan Society for the Promotion of Science (JSPS), March 2018
-- **Dean’s Award** (工学系研究科長賞) from Graduate School of Engineering, The University of Tokyo, March 2018
 
 ## Links
 
